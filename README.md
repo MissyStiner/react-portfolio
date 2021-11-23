@@ -3,11 +3,6 @@
 ## Description
 Portfolio created using React.
 
-## GitHub URL
-https://github.com/MissyStiner/react-portfolio
-
-## Portfolio URL
-https://missystiner.github.io/react-portfolio/
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications<br>
