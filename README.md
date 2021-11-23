@@ -7,6 +7,8 @@ Portfolio created using React.
 https://github.com/MissyStiner/react-portfolio<br>
 https://missystiner.github.io/react-portfolio/
 
+## Screenshot
+
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications<br>
