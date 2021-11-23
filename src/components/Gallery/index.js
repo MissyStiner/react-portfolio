@@ -5,7 +5,7 @@ import RunBuddy from "../../assets/hero-bg.jpg";
 
 function Gallery() {
   return (
-    <section className="card">
+    <section id="gallery" className="card">
         <div><h1>Projects:</h1></div>
         <a href="https://bpkaufman4.github.io/Group-2-project-1/">
         <p>Project 1: Covid Risk Tracker<img src={Project1} className="img" alt="covid"/></p>
