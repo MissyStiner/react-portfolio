@@ -8,7 +8,9 @@ https://github.com/MissyStiner/react-portfolio<br>
 https://missystiner.github.io/react-portfolio/
 
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/85651869/142978107-44443a91-f215-4a18-939c-4f025510ffb0.png)
+![image](https://user-images.githubusercontent.com/85651869/142978141-78c76e53-0e33-4b2b-b3bd-697c89a0777e.png)
+![image](https://user-images.githubusercontent.com/85651869/142978189-c161c381-438b-4eba-b4f1-f7cf3754bc19.png)
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications<br>
